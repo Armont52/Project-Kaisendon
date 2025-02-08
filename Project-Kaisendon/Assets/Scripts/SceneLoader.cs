@@ -22,7 +22,7 @@ public class SceneLoader : MonoBehaviour
     }
 
     public void LoadUnit(){
-        SceneManager.LoadScene("Unit");
+        SceneManager.LoadScene("Units");
     }
     
     public void LoadCurrentScene(){
