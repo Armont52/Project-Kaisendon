@@ -3,17 +3,24 @@
 
 ## 게임 종합 정보  
 ### 게임 제목  
-게임 이름
+프로젝트 슈가 러시(가칭)
 
 ### 게임 소개
-게임 소개
+아기자기하고 눈길이 가는 디저트 캐릭터들이 등장한다. 독특한 매력을 지닌 다양한 디저트 캐릭터들로 몰려오는 적을 격퇴해가며 세계를 탐험하자.
 
 ### 게임 정보
-장르, 언어 etc
+출시 예정: 2025년 10월  
+발매 기종: Android/iOS  
+장르: 캐주얼 오펜스 게임  
+언어: 한국어, 영어 
+
+### 게임 컨셉 아트
+<img src="Doc/Images/project_sugarrush_mainconceptart.png" height=300> <img src="Doc/Images/project_sugarrush_stageconceptart.png" height=300> <img src="Doc/Images/project_sugarrush_stageselectconceptart.png" height=300>
+
 
 ### 게임 플레이 영상
-영상 링크
-스크린샷
+추후 업로드
+
 
 ## 개발 정보
 ### 팀 구성  
