@@ -25,6 +25,10 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("Units");
     }
     
+    public void LoadAchievement(){
+        SceneManager.LoadScene("Achievement");
+    }
+
     public void LoadCurrentScene(){
         SceneManager.LoadScene(currentSceneName);
     }

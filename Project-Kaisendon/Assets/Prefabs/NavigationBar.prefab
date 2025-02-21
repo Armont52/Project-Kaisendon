@@ -436,7 +436,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 2163763516315072811}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
         m_MethodName: LoadStageSelect
         m_Mode: 1
@@ -644,7 +644,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 2163763516315072811}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
         m_MethodName: LoadUnit
         m_Mode: 1
@@ -1198,7 +1198,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 2163763516315072811}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
         m_MethodName: LoadShop
         m_Mode: 1
@@ -1295,6 +1295,7 @@ GameObject:
   m_Component:
   - component: {fileID: 790872942008652910}
   - component: {fileID: 5320199421051458143}
+  - component: {fileID: 2163763516315072811}
   m_Layer: 5
   m_Name: OptionMenuScript
   m_TagString: Untagged
@@ -1334,6 +1335,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   OptionMenuPanel: {fileID: 6749422122659035585}
+--- !u!114 &2163763516315072811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5955799066269528760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc886120479967d4783da282e1cafa30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6070079452661164077
 GameObject:
   m_ObjectHideFlags: 0
@@ -1871,9 +1884,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 2163763516315072811}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
-        m_MethodName: LoadStageSelect
+        m_MethodName: LoadAchievement
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
