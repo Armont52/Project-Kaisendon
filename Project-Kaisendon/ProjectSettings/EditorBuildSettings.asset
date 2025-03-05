@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Start.unity
     guid: 456c51618d8d5fe4281ab95ae94963ab
   - enabled: 1
-    path: Assets/Scenes/Units.unity
+    path: Assets/Scenes/RecipeBook.unity
     guid: 696106ef5c25ecb499da07ed6d8f6696
   - enabled: 1
     path: Assets/Scenes/Shop.unity

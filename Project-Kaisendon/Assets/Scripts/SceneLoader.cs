@@ -21,8 +21,8 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("Shop");
     }
 
-    public void LoadUnit(){
-        SceneManager.LoadScene("Units");
+    public void LoadRecipeBook(){
+        SceneManager.LoadScene("RecipeBook");
     }
     
     public void LoadAchievement(){
